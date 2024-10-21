@@ -1,4 +1,4 @@
-# MUSIC-STORE-DATA-ANALYSIS
+# MUSIC STORE- SQL
 
 📝 Description:
 In this project, I analysed data from a music store database to gain insights into customer behaviour, sales trends, and best genre. I utilized SQL queries to extract and manipulate data, enabling me to answer key business questions and make data-driven decisions.
