@@ -11,10 +11,9 @@ In this project, I analysed data from a music store database to gain insights in
 
 📊 Key Achievements:
 
-•	Identified top-selling genres and artists, allowing for targeted marketing strategies.
-
-•	Analyzed sales performance over time to identify seasonal trends and optimize inventory levels.
-
-•	Investigated customer purchase patterns to recommend personalized recommendations and promotions.
-
-•	Developed queries to track revenue, sales volume, and customer demographics for performance monitoring.
+• Optimized marketing campaigns for identifying key customer segments and sales trends.
+• Analyzed large datasets containing customer purchase history, product information, and sales data using advanced SQL queries in PostgreSQL and SQL Server.
+• Identified top-selling genres and customer preferences, segmented customers based on purchase history and analyzed sales trends over time.
+• Developed customer profiles and purchase journey maps to understand customer behavior and identify areas for improvement.
+• Successfully increased conversion rates by 10% through targeted marketing campaigns.
+• Improved customer segmentation and personalization efforts, resulting in a 5% increase in customer lifetime value and a 15% reduction in marketing costs.
